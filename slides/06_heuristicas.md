@@ -1,0 +1,3 @@
+<!-- _class: lead -->
+
+# Heurísticas
