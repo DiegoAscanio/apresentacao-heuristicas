@@ -1,6 +1,6 @@
 <style>
   section {
-    background-color: #dbdccf;
+    background: #fff url(./img/background.png) no-repeat center center;
     background-size: cover;
   }
 
