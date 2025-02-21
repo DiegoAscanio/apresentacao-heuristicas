@@ -2,6 +2,7 @@
   section {
     background: #fff url(./img/background.png) no-repeat center center;
     background-size: cover;
+    text-align: justify;
   }
 
   .transparent {
